@@ -1,0 +1,35 @@
+###############
+Compiled source
+###############
+*.class
+.classpath
+.settings
+.project
+hs_err_pid*
+
+###############
+# Package Files
+###############
+*.jar
+
+#########
+# target
+########
+target/
+webapps/
+####################
+# Logs and databases
+####################
+*.log
+
+################
+# Vagrant
+################
+.vagrant
+
+###########################
+# Ficheros que crea eclipse
+###########################
+.metadata
+/Server
+Servers/
